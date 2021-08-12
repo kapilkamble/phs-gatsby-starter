@@ -1,10 +1,10 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
+title: Contact us
+featuredImage: 'https://ucarecdn.com/25594ddf-10a8-428d-970e-fd5b31f4ed6a/'
+subtitle: And we will get back to you soon
+address: '36, Victoria St, Spring Hills, Brisbane QLD 4000'
 phone: 0987 123 456
 email: example@example.com
 locations:
@@ -16,12 +16,6 @@ meta:
   title: Contact Page
 ---
 
-# Example contact form
+# Kismet Tanner
 
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Founder and owner of Planetary Health Snacks.

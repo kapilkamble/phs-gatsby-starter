@@ -1,15 +1,15 @@
 .PageHeader {
   background-color: var(--darkGrey);
-  color: white;
-  padding: 15rem 0;
+  color: lightgray;
+  padding: 12.5rem 0;
 }
 
 .PageHeader .BackgroundImage {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 .PageHeader-large {
-  padding: 20rem 0;
+  padding: 12.5rem 0;
 }
 
 .PageHeader--Title {
@@ -28,9 +28,9 @@
 
 @media (max-width: 600px) {
   .PageHeader {
-    padding: 7rem 0;
+    padding: 0.5rem 0;
   }
   .PageHeader-large {
-    padding: 12.5rem 0;
+    padding: 2.5rem 0;
   }
 }
