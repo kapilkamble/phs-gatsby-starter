@@ -3,7 +3,7 @@ import { MapPin, Smartphone, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
-import FormSimpleAjax from '../components/FormSimpleAjax'
+//import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
 // import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
@@ -22,6 +22,7 @@ export const ContactPageTemplate = ({
 }) => (
   <main className="Contact">
     <PageHeader
+      large
       title={title}
       subtitle={subtitle}
       backgroundImage={featuredImage}
@@ -29,8 +30,14 @@ export const ContactPageTemplate = ({
     <section className="section Contact--Section1">
       <div className="container Contact--Section1--Container">
         <div>
-          <Content source={body} />
-          <div className="Contact--Details">
+          <Content source={body} />         
+        </div>
+
+        {/* <div>
+          <FormSimpleAjax name="Simple Form Ajax" />  
+        </div> */}
+        
+        <div className="Contact--Details">
             {address && (
               <a
                 className="Contact--Details--Item"
@@ -54,11 +61,6 @@ export const ContactPageTemplate = ({
               </a>
             )}
           </div>
-        </div>
-
-        {/* <div>
-          <FormSimpleAjax name="Simple Form Ajax" />
-        </div> */}
       </div>
     </section>
 
