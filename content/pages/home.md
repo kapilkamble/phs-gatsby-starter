@@ -7,8 +7,8 @@ featuredImage: 'https://ucarecdn.com/84a18a6b-391b-465b-b6b3-609e04a7fd17/'
 #'https://ucarecdn.com/25594ddf-10a8-428d-970e-fd5b31f4ed6a/'
 subtitle: 'Its better than Chocolates because its healthier'
 meta:
-  description: This is a meta description.
-  title: Planetary Health Snacks
+  description: SnackyBalls "Yummy...Yummy...Yummy". Its better than Chocolates because its healthier.
+  title: Home
 ---
 
 Planetary Health Snacks with its SnackyBalls is a healthier option than reaching for a high calorie Chocolate. 

@@ -12,8 +12,8 @@ locations:
     lng: '153.2432449'
     mapLink: ''
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Contact us for more information.
+  title: Contact Us
 ---
 
 # Kismet Tanner
