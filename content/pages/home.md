@@ -13,4 +13,4 @@ meta:
 
 'Its better than Chocolates because its healthier' 
 
-SnackyBalls are... "Yummy...Yummy...Yummy" with Wholesome Raw Ingredients and Nutritions.
+SnackyBalls are... "Yummy...Yummy...Yummy" with Wholesome Raw Ingredients and Nutritious.
